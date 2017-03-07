@@ -8,4 +8,6 @@ Assignment code of CS61B Data Structure, Spring 2016.
 
 * Project 0: NBody
 * Project 1A: Data Structures
+* Project 1B: Testing
+* Project 1C: HoFs
 
