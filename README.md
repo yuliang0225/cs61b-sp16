@@ -13,4 +13,5 @@ Assignment code of CS61B Data Structure, Spring 2016.
 * HW 1: Java Syntax and Sound Synthesis
 * Project 2: Editor (ing)
 * HW 2: Percolation
+* HW 3: Hashing
 
