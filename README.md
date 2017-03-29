@@ -14,4 +14,5 @@ Assignment code of CS61B Data Structure, Spring 2016.
 * Project 2: Editor (ing)
 * HW 2: Percolation
 * HW 3: Hashing
+* HW 4: 8 Puzzle
 
