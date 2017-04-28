@@ -17,4 +17,5 @@ Assignment code of CS61B Data Structure, Spring 2016.
 * HW 4: 8 Puzzle
 * HW 5: Seam Carving
 * HW 6: Boggle
+* HW 7: Compression
 
